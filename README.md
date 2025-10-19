@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, eu sou o Murilo Gomes</h1>
+  <h1 align="center">👋 Olá, eu sou o Murilo Gomes</h1>
 
 <h3 align="center">💻 Desenvolvedor focado em Dados, Back-end e Arquitetura de Software</h3>
 
@@ -25,7 +25,6 @@ Atuo com **desenvolvimento de software**, **análise de dados** e **infraestrutu
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
 </p>
@@ -38,6 +37,7 @@ Atuo com **desenvolvimento de software**, **análise de dados** e **infraestrutu
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
 </p>
 
 ### ☁️ Cloud & Ferramentas
@@ -56,7 +56,7 @@ Atuo com **desenvolvimento de software**, **análise de dados** e **infraestrutu
 
 <p align="center">
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Muhhzx&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Muhhzx&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false"/>
   
  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhhzx&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
