@@ -55,10 +55,18 @@ Atuo com **desenvolvimento de software**, **análise de dados** e **infraestrutu
 ## 📊 GitHub Analytics
 
 <p align="center">
+  
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Muhhzx&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+  
+ 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhhzx&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </p>
 
+<p align="center">
+  
+  <img src="https://github.com/Muhhzx.png?size=200" alt="Profile Image" width="100" style="border-radius:50%; margin-right: 20px;">
+  <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=Muhhzx&theme=react-dark&hide_border=true"/>
+</p>
 ---
 
 ## 🎯 Atualmente
