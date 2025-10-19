@@ -10,7 +10,7 @@
 
 ## 🚀 Sobre mim
 
-Sou apaixonado por tecnologia e pela criação de **sistemas sólidos baseados em dados**.  
+Sou apaixonado por tecnologia e pela criação de **sistemas sólidos**.  
 Atuo com **desenvolvimento de software**, **análise de dados** e **infraestrutura em nuvem**, sempre aplicando boas práticas de engenharia, automação e design moderno.
 
 🎯 **Missão:** unir **lógica, performance e inteligência** para construir produtos digitais de impacto.  
