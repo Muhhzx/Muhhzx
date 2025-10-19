@@ -1,9 +1,9 @@
-  <h1 align="center">👋 Olá, eu sou o Murilo Gomes</h1>
+  <h1 align="center">👋 Olá Dev, eu sou o Murilo Gomes</h1>
 
 <h3 align="center">💻 Desenvolvedor focado em Dados, Back-end e Arquitetura de Software</h3>
 
 <p align="center">
-  <em>Transformo dados e código em soluções inteligentes, performáticas e escaláveis.</em>
+  <em>Transformo dados e código em soluções inteligentes, resolvendo problemas.</em>
 </p>
 
 ---
@@ -91,6 +91,6 @@ Atuo com **desenvolvimento de software**, **análise de dados** e **infraestrutu
 
 ---
 
-<h3 align="center">✨ "Dados contam histórias. Código dá vida a elas." ✨</h3>
+<h3 align="center"> "Dados contam histórias. Código dá vida a elas." </h3>
 
 <!-- ────────────────────────────────────────────────────────────── -->
