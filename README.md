@@ -1,4 +1,4 @@
-<h1 align="center">✨👋 Olá Dev, eu sou o Murilo Gomes ✨</h1>
+<h1 align="center">👋 Olá Dev, eu sou o Murilo Gomes Sardinha </h1>
 
 <h3 align="center">💻 Estagiário Front-End Angular na T-Systems | Futuro Full Stack com foco em Arquitetura</h3>
 
