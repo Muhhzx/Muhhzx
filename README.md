@@ -52,14 +52,13 @@ Atuo com **desenvolvimento de software**, **análise de dados** e **infraestrutu
 
 ---
 
-## 📊 GitHub Analytics
-
 ## 🎯 Atualmente
 
-📚 Estudante de **Sistemas de Informação** na **Faculdade Impacta**  
-🧩 Focado em **Engenharia de Dados** e **Desenvolvimento de Software**  
+📚 Estudante de **Sistemas de Informação Atuamente 5° semestre** na **Faculdade Impacta**  
+🧩 Focado em **Front-End** e **Desenvolvimento de Software**  
 ☁️ Explorando **AWS**, **C#**, **automação de pipelines** e **integração de APIs inteligentes**  
 🧠 Sempre buscando novas abordagens em **arquitetura, nuvem e IA aplicada a dados**
+
 
 ---
 
