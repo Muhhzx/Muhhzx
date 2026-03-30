@@ -11,10 +11,7 @@
 ## 🔥 Sobre mim
 
 🎯 Apaixonado por tecnologia e pela criação de **sistemas robustos e bem arquitetados**  
-💼 Estagiando como **Front-End Angular** na  
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/T-Systems_logo.svg/2560px-T-Systems_logo.svg.png" alt="T-Systems Logo" width="200"/>
-</p>  
+💼 Estagiando como **Front-End Angular** na T-Systems
 📖 Estudando **Oracle Database** e praticando **C#** no Back-End da empresa  
 🚀 Objetivo: me tornar um **Full Stack Developer** que entende **Front-End, Back-End, Cloud e Arquitetura de Software**  
 🧠 Sempre buscando novas abordagens em **design de sistemas, nuvem e boas práticas de engenharia**
